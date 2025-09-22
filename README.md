@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created for educational purposes to demonstrate modern web development practices.
 
 **Contact:** info@virustechsolutions.com  
-**Project Link:** https://github.com/VIRUS-TECH-SOLUTIONS/STUDENT-MANAGEMENT-APP
+**Project Link:** https://github.com/virus-tech-solutions/student-management-system
