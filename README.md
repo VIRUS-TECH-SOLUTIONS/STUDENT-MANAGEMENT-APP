@@ -51,7 +51,7 @@ A full-stack web application built for educational purposes, demonstrating CRUD 
    **Terminal 1 - Backend Server:**
    ```bash
    cd backend
-   npm run dev
+   npm start
    ```
    Backend runs on: http://localhost:5000
    
