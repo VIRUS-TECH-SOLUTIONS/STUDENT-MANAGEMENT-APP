@@ -47,29 +47,6 @@ A full-stack web application built for educational purposes, demonstrating CRUD 
    );
    ```
 
-3. **Environment Configuration**
-   Create `.env` file in the backend directory:
-   ```env
-   DB_HOST=localhost
-   DB_USER=your_username
-   DB_PASSWORD=your_password
-   DB_NAME=student_db
-   PORT=5000
-   ```
-
-4. **Install Dependencies**
-   ```bash
-   # Install all dependencies (root, backend, frontend)
-   npm install
-   ```
-
-5. **Start Development Servers**
-   ```bash
-   # Run both frontend and backend concurrently
-   npm run dev
-   ```
-   
-   **Or run individually:**
    
    **Terminal 1 - Backend Server:**
    ```bash
